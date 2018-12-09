@@ -150,6 +150,7 @@ public interface Collection<E> extends Iterable<E> {
      * <tt>Integer.MAX_VALUE</tt>.
      *
      * @return the number of elements in this collection
+     * 定义size方法
      */
     int size();
 
